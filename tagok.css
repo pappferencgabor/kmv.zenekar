@@ -1,6 +1,8 @@
 table {
-    padding: 0.5cm;
+    padding: 2cm;
     border: 2px solid black;
+    width: 95%;
+    margin: auto;
 }
 img {
     width: 172.6px;

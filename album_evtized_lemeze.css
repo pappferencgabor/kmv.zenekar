@@ -1,5 +1,8 @@
 body {
     margin: 0px;
+    background-color: wheat;
+    background-image: url("albumhatter4-2.jpg");
+    background-repeat: initial;
 }
 table {
     width: 100%;
@@ -31,10 +34,12 @@ ul {
     padding: 0;
 }
 .vissza {
-    height: 60px;
+    height: 50px;
     width: 100px;
+    border: 1px solid white;
+    background-color: gray;
 }
-.bg {
+{
     background-image: url("albumhatter2.jpg");
     height: 135vh;
     width: 100%;
