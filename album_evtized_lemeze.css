@@ -6,6 +6,8 @@ body {
 }
 table {
     width: 100%;
+    padding-left: 775px;
+    padding-right: 775px;
 }
 td {
     text-align: center;

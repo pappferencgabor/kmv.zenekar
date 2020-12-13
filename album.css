@@ -2,13 +2,16 @@ body {
     margin: 0px;
     background-color: wheat;
     background-image: url("albumhatter4-2.jpg");
-    background-repeat: repeat-y;
+    background-repeat: repeat;
 }
 table {
     width: 100%;
+    padding-left: 800px;
+    padding-right: 800px;
 }
 td {
     text-align: center;
+    width: 100px;
 }
 img {
     width: 300px;
@@ -19,7 +22,7 @@ li {
     line-height: 25px;
     text-align: center;
     border: 1px solid darkgray;
-    margin: auto;
+    margin: auto
 }
 a {
     color: lightblue;
