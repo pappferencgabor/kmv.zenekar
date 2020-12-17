@@ -3,23 +3,28 @@ body {
     background-color: wheat;
     background-image: url("albumhatter4-2.jpg");
     background-repeat: repeat;
+    width: 100%;
 }
 .fejlec {
-    width: 616px;
     border: none;
 }
 .lemezek {
-    width: 50%;
+    width: 45%;
     margin: auto;
 }
 th {
     height: 0.75cm;
     color: white;
 }
+.lem {
+    border: 1.5px solid gray;
+}
 td {
     text-align: center;
     width: 30%;
     height: 0.75cm;
+    border: none;
+    border: 1.5px solid gray;
 }
 img {
     width: 300px;

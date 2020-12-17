@@ -3,6 +3,7 @@ body {
     background-color: wheat;
     background-image: url("albumhatter4-2.jpg");
     background-repeat: repeat;
+    width: 100%;
 }
 table {
     width: 100%;
