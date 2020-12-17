@@ -7,8 +7,10 @@ body {
 }
 table {
     width: 100%;
-    padding-left: 800px;
-    padding-right: 800px;
+}
+.albumkep {
+    padding-bottom: 10px;
+    padding-top: 10px;
 }
 td {
     text-align: center;
@@ -44,7 +46,7 @@ ul {
     background-color: gray;
 }
 {
-    background-image: url("albumhatter2.jpg");
+    background-image: url("albumhatter4-2.jpg");
     height: 100%;
     width: 100%;
     background-position: center;

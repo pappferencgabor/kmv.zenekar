@@ -5,21 +5,29 @@ body {
     background-repeat: repeat-y;
     width: 100%;
 }
-table {
-    width: 100%;
+.fejlec {
+    border: none;
 }
 .lemezek {
     width: 75%;
     margin: auto;
 }
+.albumkep {
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
 th {
     height: 0.75cm;
     color: white;
+}
+.lem {
+    border: 1.5px solid gray;
 }
 td {
     text-align: center;
     width: 30%;
     height: 0.75cm;
+    border: 1.5px solid gray;
 }
 img {
     width: 300px;

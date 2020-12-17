@@ -2,13 +2,15 @@ body {
     margin: 0px;
     background-color: wheat;
     background-image: url("albumhatter4-2.jpg");
-    background-repeat: repeat-y;
+    background-repeat: repeat;
     width: 100%;
 }
 table {
     width: 100%;
-    padding-left: 775px;
-    padding-right: 775px;
+}
+.albumkep {
+    padding-bottom: 10px;
+    padding-top: 10px;
 }
 td {
     text-align: center;

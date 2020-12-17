@@ -12,6 +12,10 @@ body {
     width: 45%;
     margin: auto;
 }
+.albumkep {
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
 th {
     height: 0.75cm;
     color: white;
@@ -23,7 +27,6 @@ td {
     text-align: center;
     width: 30%;
     height: 0.75cm;
-    border: none;
     border: 1.5px solid gray;
 }
 img {
