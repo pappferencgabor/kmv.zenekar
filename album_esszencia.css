@@ -11,6 +11,7 @@ body {
 .lemezek {
     width: 75%;
     margin: auto;
+    padding-bottom: 25px;
 }
 .albumkep {
     padding-bottom: 10px;
@@ -22,6 +23,7 @@ th {
 }
 .lem {
     border: 1.5px solid gray;
+    background-color: gray;
 }
 td {
     text-align: center;
@@ -56,6 +58,9 @@ ul {
     width: 100px;
     border: 1px solid white;
     background-color: gray;
+}
+.vissza:hover {
+    background-color: lightgray;
 }
 {
     background-image: url("albumhatter2.jpg");

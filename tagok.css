@@ -41,4 +41,5 @@ a:hover {
 p {
     padding-left: 250px;
     padding-right: 250px;
+    line-height: 25px;
 }

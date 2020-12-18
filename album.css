@@ -6,7 +6,10 @@ body {
     width: 100%;
 }
 table {
-    width: 100%;
+    width: 15%;
+    margin: auto;
+    padding: 0;
+    padding-bottom: 25px;
 }
 .albumkep {
     padding-bottom: 10px;
@@ -14,7 +17,9 @@ table {
 }
 td {
     text-align: center;
-    width: 100px;
+    width: 30%;
+    height: 0.75cm;
+    border: 1.5px solid gray;
 }
 img {
     width: 300px;
@@ -24,8 +29,7 @@ li {
     width: 300px;
     line-height: 25px;
     text-align: center;
-    border: 1px solid darkgray;
-    margin: auto
+    margin: auto;
 }
 a {
     color: lightblue;
@@ -40,16 +44,11 @@ ul {
     padding: 0;
 }
 .vissza {
-    height: 60px;
+    height: 50px;
     width: 100px;
     border: 1px solid white;
     background-color: gray;
 }
-{
-    background-image: url("albumhatter4-2.jpg");
-    height: 100%;
-    width: 100%;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+.vissza:hover {
+    background-color: lightgray;
 }
