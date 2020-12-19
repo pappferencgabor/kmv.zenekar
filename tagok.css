@@ -9,12 +9,12 @@ table {
     color: rgba(241, 231, 231, 0.856);
 }
 img {
-    width: 172,6px;
+    width: 172.6px;
     height: 320px;
 }
 hr {
     color: whitesmoke;
-    width: 85%;
+    width: 100%;
 }
 .vissza {
     height: 50px;
@@ -37,9 +37,4 @@ a {
 a:hover {
     color: lightskyblue;
     text-decoration: underline;
-}
-p {
-    padding-left: 250px;
-    padding-right: 250px;
-    line-height: 25px;
 }

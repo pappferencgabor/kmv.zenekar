@@ -44,11 +44,19 @@ ul {
     padding: 0;
 }
 .vissza {
-    height: 50px;
+    height: 60px;
     width: 100px;
     border: 1px solid white;
     background-color: gray;
 }
 .vissza:hover {
     background-color: lightgray;
+}
+{
+    background-image: url("albumhatter2.jpg");
+    height: 135vh;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }

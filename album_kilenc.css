@@ -5,10 +5,12 @@ body {
     background-repeat: repeat;
     width: 100%;
 }
-.fejlec {
-    border: none;
+.lemezek1 {
+    width: 45%;
+    margin: auto;
+    padding-bottom: 25px;
 }
-.lemezek {
+.lemezek2 {
     width: 45%;
     margin: auto;
     padding-bottom: 25px;
@@ -64,9 +66,9 @@ ul {
 }
 {
     background-image: url("albumhatter2.jpg");
-    height: 125vh;
+    height: 150vh;
     width: 174.5vh;
-    background-position: 100%;
+    background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }

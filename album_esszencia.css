@@ -2,14 +2,21 @@ body {
     margin: 0px;
     background-color: wheat;
     background-image: url("albumhatter4-2.jpg");
-    background-repeat: repeat-y;
+    background-repeat: repeat;
     width: 100%;
 }
-.fejlec {
-    border: none;
+.lemezek1 {
+    width: 45%;
+    margin: auto;
+    padding-bottom: 25px;
 }
-.lemezek {
-    width: 75%;
+.lemezek2 {
+    width: 45%;
+    margin: auto;
+    padding-bottom: 25px;
+}
+.lemezek3 {
+    width: 45%;
     margin: auto;
     padding-bottom: 25px;
 }
