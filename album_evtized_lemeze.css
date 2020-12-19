@@ -44,7 +44,7 @@ ul {
     padding: 0;
 }
 .vissza {
-    height: 60px;
+    height: 50px;
     width: 100px;
     border: 1px solid white;
     background-color: gray;
@@ -54,7 +54,7 @@ ul {
 }
 {
     background-image: url("albumhatter2.jpg");
-    height: 180vh;
+    height: 135vh;
     width: 100%;
     background-position: center;
     background-repeat: no-repeat;
