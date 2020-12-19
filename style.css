@@ -2,7 +2,7 @@
 
 body {
     margin: 0;
-    background-color: rgb(116, 108, 108);
+    background-color: rgb(41, 41, 41);
 }
 .hero {
     width: 100%;
@@ -22,7 +22,10 @@ table tr td img {
     width: 100%;
 }
 table tr td img:hover {
-    border: 1px solid white;
+    border: 2px solid white;
+}
+.kilenc:hover {
+    border: 2px solid darkturquoise;
 }
 table tr td {
     width: 100/11vh;
